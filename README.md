@@ -1,25 +1,28 @@
-## Hola, extraño
+## Hola, extraño.
 
 Mi nombre es Christiam y soy **licenciado en Ciencias de la Computación** de la Universidad Central de Venezuela (U-U-UCV!). Soy experto en karate bajo el agua y apasionado lector de cajas de cereal (*cuando no estoy haciendo algo de eso, estoy programando*).
 
 ### Más sobre mi (pero en formato *geek*)
 
 ```javascript
-const tech = {
+const about = {
+  god: 1,
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Sass, React, Styled-Components, Ionic, Bootstrap],
+  push: ['GIT', 'GitHub', 'GitLab', 'Bitbucket'],
   getCountry(from = 'Venezuela') {
     return 'Perú';
   },
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, Sass, React, Styled-Components, Ionic, Bootstrap],
-  also: ['GIT', 'GitHub', 'GitLab', 'Bitbucket']
+  food: { pizza: true, lasagna: 'oh, yeah!', soursop: 404 },
   printHobbies: () => console.log(['read', 'movies', 'baseball', 'video-games'].join(', ')),
-  challenge: 'learn a new technology every year'
+  challenge: 'learn a new technology every year!'
 }
 
-export default const xtiam57 = { isHusband: true, idDad: true, ...tech }
+export default const xtiam57 = { isHusband: true, idDad: true, ...about }
 ```
 
-Atentamente, [@xtiam57](https://github.com/xtiam57)
+Atentamente, 
+[@xtiam57](https://github.com/xtiam57)
 
 <!--
 **xtiam57/xtiam57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
