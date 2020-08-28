@@ -2,7 +2,7 @@
 
 Mi nombre es Christiam y soy **licenciado en Ciencias de la Computación** de la Universidad Central de Venezuela (U-U-UCV!). Soy experto en karate bajo el agua y apasionado lector de cajas de cereal (*cuando no estoy haciendo algo de eso, estoy programando*).
 
-### Más sobre mi, pero en formato *geek*
+### Más sobre mi (pero en formato *geek*)
 
 ```javascript
 const tech = {
