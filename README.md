@@ -5,7 +5,7 @@ Mi nombre es Christiam y soy **licenciado en Ciencias de la Computación** de la
 ### Más sobre mi, pero en formato *geek*
 
 ```javascript
-export default const XTIAM57 = {
+const tech = {
   getCountry(from = 'Venezuela') {
     return 'Perú';
   },
@@ -15,6 +15,8 @@ export default const XTIAM57 = {
   printHobbies: () => console.log(['read', 'movies', 'baseball', 'video-games'].join(', ')),
   challenge: 'learn a new technology every year'
 }
+
+export default const xtiam57 = { isHusband: true, idDad: true, ...tech }
 ```
 
 ---
