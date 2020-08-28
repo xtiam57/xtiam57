@@ -19,8 +19,6 @@ const tech = {
 export default const xtiam57 = { isHusband: true, idDad: true, ...tech }
 ```
 
----
-
 Atentamente, [@xtiam57](https://github.com/xtiam57)
 
 <!--
