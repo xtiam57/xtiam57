@@ -6,7 +6,7 @@ Mi nombre es Christiam y soy **licenciado en Ciencias de la Computación** de la
 
 ```javascript
 const about = {
-  god: 1,
+  God: 1,
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Angular, Sass, React, Styled-Components, Ionic, Bootstrap],
   push: ['GIT', 'GitHub', 'GitLab', 'Bitbucket'],
