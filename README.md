@@ -11,6 +11,7 @@ export default const XTIAM57 = {
   },
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Angular, Sass, React, Styled-Components, Ionic, Bootstrap],
+  also: ['GIT', 'GitHub', 'GitLab', 'Bitbucket']
   printHobbies: () => console.log(['read', 'movies', 'baseball', 'video-games'].join(', ')),
   challenge: 'learn a new technology every year'
 }
