@@ -9,16 +9,15 @@ const about = {
   God: 1,
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Angular, Sass, React, Styled-Components, Ionic, Bootstrap],
-  push: ['GIT', 'GitHub', 'GitLab', 'Bitbucket'],
   getCountry(from = 'Venezuela') {
     return 'Perú';
   },
-  food: { pizza: true, lasagna: 'oh, yeah!', soursop: 404 },
+  food: { pizza: true, lasagna: 'oh, yeah! 😄', soursop: 404 },
   printHobbies: () => console.log(['read', 'movies', 'baseball', 'video-games'].join(', ')),
   challenge: 'learn a new technology every year!'
 }
 
-export default const xtiam57 = { isHusband: true, idDad: true, ...about }
+export default const xtiam57 = { isHusband: true, isDad: true, ...about }
 ```
 
 Atentamente, 
