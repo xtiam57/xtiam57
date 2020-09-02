@@ -12,6 +12,7 @@ const about = {
   getCountry(from = 'Venezuela') {
     return 'Perú';
   },
+  basic: ['PS', 'Illustrator', 'UX & UI Design'],
   food: { pizza: true, lasagna: 'oh, yeah! 😄', soursop: 404 },
   printHobbies: () => console.log(['read', 'movies', 'baseball', 'video-games'].join(', ')),
   challenge: 'learn a new technology every year!'
