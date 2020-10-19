@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/xtiam57/website/master/static/images/nav-logo.svg" alt="Logo" width="100" />
+
 ## Hola, extraño.
 
 Mi nombre es Christiam y soy **licenciado en Ciencias de la Computación** de la Universidad Central de Venezuela (U-U-UCV!). Soy experto en karate bajo el agua, apasionado lector de cajas de cereal y superheroe asintomático (*cuando no estoy haciendo algo de eso, estoy programando*).
@@ -22,7 +24,7 @@ export default const xtiam57 = { isHusband: true, isDad: true, ...about }
 ```
 
 Atentamente, 
-[@xtiam57](https://github.com/xtiam57)
+[@xtiam57](https://christiam-mena.netlify.app/)
 
 <!--
 **xtiam57/xtiam57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
