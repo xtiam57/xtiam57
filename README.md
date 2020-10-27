@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/xtiam57/website/master/static/images/nav-logo.svg" alt="Logo" width="100" />
+
+[<img src="https://raw.githubusercontent.com/xtiam57/website/master/static/images/nav-logo.svg" alt="Logo" width="100" />](https://christiam-mena.netlify.app/)
 
 ## Hola, extraño.
 
