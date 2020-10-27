@@ -25,7 +25,7 @@ export default const xtiam57 = { isHusband: true, isDad: true, ...about }
 ```
 
 Atentamente, 
-[@xtiam57](https://christiam-mena.netlify.app/)
+[@xtiam57](https://github.com/xtiam57)
 
 <!--
 **xtiam57/xtiam57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
